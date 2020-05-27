@@ -1,0 +1,60 @@
+body {
+  color: #6c7279;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.page-header {
+  background-color: #3a3e64;
+}
+.site-nav a {
+  color: cornsilk;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.site-nav a:hover {
+  color: #e84545;
+}
+.feature-list h3 {
+  color: #2d3033;
+  font-size: 14px;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+.team-list .name {
+  color: #2d3033;
+  font-size: 22px;
+  line-height: 1.2;
+}
+.team-list .occupation {
+  color: #e84545;
+  font-size: 13px;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+footer {
+  
+  background-color: aquamarine;
+  background-size: cover;
+  padding: 100px;
+  color: #ffffff;
+}
+}
+.button_3 {
+  font-size: 9px;
+  border: 2px solid #2d3033;
+  border-radius: 6px;
+  padding: 5px 10px;
+  /*margin-left: 40px;*/
+  width: 150px;
+  height: 100px;
+}
+footer label {
+  display: inline-block;
+  width: 100px;
+}
+footer p {
+  margin-bottom: 20px;
+}
